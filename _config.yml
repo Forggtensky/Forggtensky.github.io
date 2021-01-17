@@ -4,14 +4,14 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: HAN YU ZHEN BLOG
-subtitle: "欢迎来到我的个人博客"
-description: "韩宇臻的个人博客，github账号：Forggyensky"
-keywords: 个人博客, 韩宇臻, Forggyensky, mazhuang, 闷骚的程序员
+title: 韩宇臻的博客
+subtitle: "欢迎来到我的博客"
+description: "韩宇臻的个人博客，github：Forggtensky"
+keywords: 韩宇臻, YuZhen Han, 个人博客
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: Forggyensky/Forggyensky.github.io
+repository: Forggtensky/Forggtensky.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -41,7 +41,7 @@ highlight_theme: github
 author: YuZhen Han
 organization: 
 organization_url: 
-github_username: Forggyensky
+github_username: Forggtensky
 location: Beijing, China
 email: 20125169@bjtu.edu.cn
 
