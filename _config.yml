@@ -4,9 +4,9 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title: HAN YU ZHEN BLOG
 subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
+description: "韩宇臻的个人博客，公众号：闷骚的程序员"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: YuZhen Han
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: Forggyensky
+location: Beijing, China
+email: 20125169@bjtu.edu.cn
 
 # ---------------- #
 #    Navigation    #
